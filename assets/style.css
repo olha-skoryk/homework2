@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+height: 100vh;
+padding: 20% ; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+color:  #926239;
+text-align: center;
+line-height: 1.2;
+background-image: url("./images/beach.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+}
+
+.title {
+  font-size: 55px;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  border: #926239 1px solid;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #926239;
+  padding: 10px 20px;
+}
+
+.main-p {
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  line-height: 1.6;
+  color: #ffffff;
+  background-color: #926239;
+  padding: 25px;
+}
+
+.footer-p {
+  display: inline-block;
+  width: 33.2%;
+  padding: 25px;
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.6;
+  color: #ffffff;
+  background-color: #926239;
+}
+
+.color {
+  color: #926239;
+  background-color: #ffffff;
+}
